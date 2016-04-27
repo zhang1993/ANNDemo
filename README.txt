@@ -1,0 +1,4 @@
+The ANN-CODE file contains the answer of two ANN problems described in proj1_spec.pdf,the code only modify two files in the origin file to solve the problems.You can replace with two files to execute this program.The answer to the problems may various with different methods to implement evaluate_performance and load_target function.
+if you get a bad result you can try adjust learning rate or hidden-units num to get a better result.This is a reference of project one in machine learning class taught by Mr.Jin at Tsinghua university.
+ANN-CODE文件夹包含了对proj1_spec.pdf文件中所描述的两个问题的解答，里面的代码只是对原文件中的两个cpp文件进行了更改，你可以替换这两个文件到src文件夹来执行程序。基于对evaluate_performance and load_target方法的修改可以得到不同的结论。
+如果你通过方法得到了不是很好的结果，你可以调整学习速率或者隐藏节点个数等参数来让结果编号，必要时可以自行对evaluate_performance和load_target方法修改。这是一份机器学习靳老师大作业的解答，如果你觉得有帮助的话请施舍一个star(臭表脸)。
